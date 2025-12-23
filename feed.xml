@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>muho's blog</title>
+    <description>Welcome to my personal blog built with dotnet-ssg!</description>
+    <link>https://muho2019.github.io</link>
+    <atom:link href="https://muho2019.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <language>ko</language>
+    <generator>dotnet-ssg</generator>
+    <lastBuildDate>Mon, 27 Oct 2025 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>My Second Blog Post</title>
+      <link>https://muho2019.github.io/posts/my-second-post/</link>
+      <guid>https://muho2019.github.io/posts/my-second-post/</guid>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Welcome to my new blog! This is my very first post, generated using my custom .NET Static Site Generator.</p>
+<p>I've been working on this project to learn more about:</p>
+<ul>
+<li><strong>Static Site Generation:</strong> The process of building HTML files in advance, which are then served directly to users. This offers great performance and security benefits.</li>
+<li><strong>Markdown for Content:</strong> Writing content in a simple, readable format that can be easily converted to HTML.</li>
+<li><strong>.NET Development:</strong> Leveraging the power and flexibility of .NET for various tasks, including text processing, file operations, and templating.</li>
+<li><strong>Scriban Templating:</strong> An amazing templating engine that allows for dynamic content injection into static HTML layouts.</li>
+</ul>
+<p>I'm excited to share my journey and insights here. Stay tuned for more updates!</p>
+]]></content:encoded>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+      <category>introduction</category>
+      <category>test</category>
+    </item>
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://muho2019.github.io/posts/my-first-post/</link>
+      <guid>https://muho2019.github.io/posts/my-first-post/</guid>
+      <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>Welcome to my new blog! This is my very first post, generated using my custom .NET Static Site Generator.</p>
+<p>I've been working on this project to learn more about:</p>
+<ul>
+<li><strong>Static Site Generation:</strong> The process of building HTML files in advance, which are then served directly to users. This offers great performance and security benefits.</li>
+<li><strong>Markdown for Content:</strong> Writing content in a simple, readable format that can be easily converted to HTML.</li>
+<li><strong>.NET Development:</strong> Leveraging the power and flexibility of .NET for various tasks, including text processing, file operations, and templating.</li>
+<li><strong>Scriban Templating:</strong> An amazing templating engine that allows for dynamic content injection into static HTML layouts.</li>
+</ul>
+<p>I'm excited to share my journey and insights here. Stay tuned for more updates!</p>
+]]></content:encoded>
+      <pubDate>Fri, 27 Oct 2023 12:10:01 GMT</pubDate>
+      <category>introduction</category>
+      <category>ssg</category>
+      <category>dotnet</category>
+    </item>
+  </channel>
+</rss>
